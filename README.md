@@ -1,6 +1,14 @@
-![Group 167](https://user-images.githubusercontent.com/76046277/172929500-555381e4-20c0-42b9-8077-31aa30df6223.png)
+
+  
+  <img 
+       width="100%"
+    src="https://user-images.githubusercontent.com/76046277/172932458-922a1b6f-8e2e-4378-a6cd-065803f8e885.png">
+ .
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTBYSR)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTBYSR)](https://github.com/anuraghazra/github-readme-stats)
+
 **PTBYSR/PTBYSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
