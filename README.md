@@ -7,3 +7,5 @@
 
 
 Building at https://github.com/Aisely/web-mvp [![wakatime](https://wakatime.com/badge/user/6d544ca1-2419-44fc-9eb3-2f9b173c46d1/project/94c13fc3-5e31-44f8-a50e-9bcc0f6b35d0.svg)](https://wakatime.com/badge/user/6d544ca1-2419-44fc-9eb3-2f9b173c46d1/project/94c13fc3-5e31-44f8-a50e-9bcc0f6b35d0)
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
