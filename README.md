@@ -6,8 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTBYSR&show_icons=true&theme=radical)
 
 
-Building at https://github.com/Aisely/web-mvp [![wakatime](https://wakatime.com/badge/user/6d544ca1-2419-44fc-9eb3-2f9b173c46d1/project/94c13fc3-5e31-44f8-a50e-9bcc0f6b35d0.svg)](https://wakatime.com/badge/user/6d544ca1-2419-44fc-9eb3-2f9b173c46d1/project/94c13fc3-5e31-44f8-a50e-9bcc0f6b35d0)
-
+Building at https://github.com/Aisely/web-mvp 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
