@@ -1,3 +1,3 @@
-### I build tools for myself
+### tools i've built to help me somehow.
 
 - [Render Alive](https://render-alive-4xb9.vercel.app/) (1 account created): Automated keep-alive monitor that prevents Render free-tier web services from spinning down after 15 minutes of inactivity and eliminates 50-second cold starts.
